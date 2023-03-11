@@ -1,2 +1,2 @@
 # AutoShutdown
-Project Sekolah untuk Mematikan Windows dengan Waktu
+Aplikasi simple untuk Mematikan Windows dengan Waktu
