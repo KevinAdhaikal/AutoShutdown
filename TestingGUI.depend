@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1668063074 source:c:\users\administrator\desktop\testinggui\main.c
+	<stdio.h>
+	<tchar.h>
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<pthread.h>
+
+1668346897 source:c:\users\kepin\desktop\testinggui\main.c
+	<stdio.h>
+	<tchar.h>
+	<windows.h>
+	<string.h>
+	<limits.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1668415150 source:c:\users\administrator\desktop\autoshutdownproject\testinggui\main.c
+	<stdio.h>
+	<tchar.h>
+	<windows.h>
+	<string.h>
+	<limits.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1668430716 source:c:\users\kepin\desktop\autoshutdownproject\testinggui\main.c
+	<stdio.h>
+	<tchar.h>
+	<windows.h>
+	<string.h>
+	<limits.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1668521317 source:c:\users\kepin\desktop\autoshutdownproject\autoshutdown\main.c
+	<stdio.h>
+	<tchar.h>
+	<windows.h>
+	<string.h>
+	<limits.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1668862621 source:c:\users\dell\desktop\autoshutdownproject\autoshutdown\main.c
+	<stdio.h>
+	<tchar.h>
+	<windows.h>
+	<string.h>
+	<limits.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
